@@ -1,0 +1,14 @@
+c:\users\rfpri\source\repos\RTL.TvMaze\RTL.TvMaze\bin\Debug\netcoreapp2.1\RTL.TvMaze.deps.json
+c:\users\rfpri\source\repos\RTL.TvMaze\RTL.TvMaze\bin\Debug\netcoreapp2.1\RTL.TvMaze.runtimeconfig.json
+c:\users\rfpri\source\repos\RTL.TvMaze\RTL.TvMaze\bin\Debug\netcoreapp2.1\RTL.TvMaze.runtimeconfig.dev.json
+c:\users\rfpri\source\repos\RTL.TvMaze\RTL.TvMaze\bin\Debug\netcoreapp2.1\RTL.TvMaze.dll
+c:\users\rfpri\source\repos\RTL.TvMaze\RTL.TvMaze\obj\Debug\netcoreapp2.1\RTL.TvMaze.csproj.CoreCompileInputs.cache
+c:\users\rfpri\source\repos\RTL.TvMaze\RTL.TvMaze\obj\Debug\netcoreapp2.1\RTL.TvMaze.RazorAssemblyInfo.cache
+c:\users\rfpri\source\repos\RTL.TvMaze\RTL.TvMaze\obj\Debug\netcoreapp2.1\RTL.TvMaze.RazorAssemblyInfo.cs
+c:\users\rfpri\source\repos\RTL.TvMaze\RTL.TvMaze\obj\Debug\netcoreapp2.1\RTL.TvMaze.AssemblyInfoInputs.cache
+c:\users\rfpri\source\repos\RTL.TvMaze\RTL.TvMaze\obj\Debug\netcoreapp2.1\RTL.TvMaze.AssemblyInfo.cs
+c:\users\rfpri\source\repos\RTL.TvMaze\RTL.TvMaze\obj\Debug\netcoreapp2.1\RTL.TvMaze.RazorTargetAssemblyInfo.cache
+c:\users\rfpri\source\repos\RTL.TvMaze\RTL.TvMaze\bin\Debug\netcoreapp2.1\RTL.TvMaze.pdb
+c:\users\rfpri\source\repos\RTL.TvMaze\RTL.TvMaze\obj\Debug\netcoreapp2.1\RTL.TvMaze.dll
+c:\users\rfpri\source\repos\RTL.TvMaze\RTL.TvMaze\obj\Debug\netcoreapp2.1\RTL.TvMaze.pdb
+C:\Users\rfpri\source\repos\RTL.TvMaze\RTL.TvMaze\obj\Debug\netcoreapp2.1\RTL.TvMaze.csprojAssemblyReference.cache
